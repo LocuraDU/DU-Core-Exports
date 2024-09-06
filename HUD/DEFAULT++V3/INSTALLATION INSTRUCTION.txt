@@ -1,0 +1,15 @@
+BEFORE STARTING THE GAME!!!!!!!!
+
+Unpack the content of the zip file in you game custom folder:
+
+\Dual Universe\Game\data\lua\autoconf\custom
+
+Keep the Default++ folder with its libraries as it is.
+
+Run the game, right click on command chair / remote control / emergency unit, choose Advanced, Run custom configuration, and choose DEFAULT++ vX.x
+
+Take construct control
+
+Enjoy!
+
+*A databank is requiered in order to save your settings
