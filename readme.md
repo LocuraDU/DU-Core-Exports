@@ -5,25 +5,25 @@
 > I will not be able to release my other files without the author consent.
 
 ## Ships
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/XS%20Cores?label=Ships%20XS%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/S%20Cores?label=Ships%20S%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/M%20Cores?label=Ships%20M%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/L%20Cores?label=Ships%20L%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/XL%20Cores?label=Ships%20XL%20Core&style=flat-square)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/XS%20Cores?label=Ships%20XS%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/S%20Cores?label=Ships%20S%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/M%20Cores?label=Ships%20M%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/L%20Cores?label=Ships%20L%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/XL%20Cores?label=Ships%20XL%20Core&style=for-the-badge)](#)
 
 ## Statics
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/XS%20Cores?label=Statics%20XS%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/S%20Cores?label=Statics%20S%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/M%20Cores?label=Statics%20M%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/L%20Cores?label=Statics%20L%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/XL%20Cores?label=Statics%20XL%20Core&style=flat-square)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/XS%20Cores?label=Statics%20XS%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/S%20Cores?label=Statics%20S%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/M%20Cores?label=Statics%20M%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/L%20Cores?label=Statics%20L%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Statics/XL%20Cores?label=Statics%20XL%20Core&style=for-the-badge)](#)
 
 ## Space
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/XS%20Cores?label=Space%20XS%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/S%20Cores?label=Space%20S%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/M%20Cores?label=Space%20M%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/L%20Cores?label=Space%20L%20Core&style=flat-square)](#)
-[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/XL%20Cores?label=Space%20XL%20Core&style=flat-square)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/XS%20Cores?label=Space%20XS%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/S%20Cores?label=Space%20S%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/M%20Cores?label=Space%20M%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/L%20Cores?label=Space%20L%20Core&style=for-the-badge)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/XL%20Cores?label=Space%20XL%20Core&style=for-the-badge)](#)
 
 ---
 
