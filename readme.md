@@ -2,7 +2,7 @@
 > All files have been publicaly released by NQ or the author themself.
 
 > [!IMPORTANT]
-> I will not be able to release my other files without the author consent.
+> I will not be able to release some files without the author consent.
 
 ## Ships
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Ships/XS%20Cores?label=Ships%20XS%20Core&style=flat-square&color=2BA3E9)](#)
