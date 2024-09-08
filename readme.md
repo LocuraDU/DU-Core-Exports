@@ -25,6 +25,7 @@
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/L%20Cores?label=Space%20L%20Core&style=flat-square)](#)
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/XL%20Cores?label=Space%20XL%20Core&style=flat-square)](#)
 
+### Other Info
 
 [![](https://img.shields.io/badge/DU-1.4.X-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
 [![](https://img.shields.io/badge/CODE-JSON-purple?style=for-the-badge&logo=json)](#)
