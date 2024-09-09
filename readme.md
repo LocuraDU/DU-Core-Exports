@@ -28,6 +28,10 @@ Welcome to a growing collection of blueprints from builders of Dual Universe. So
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/L%20Cores?label=Space%20L%20Core&style=flat-square&color=7D52CA)](#)
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/XL%20Cores?label=Space%20XL%20Core&style=flat-square&color=7D52CA)](#)
 
+## Other Stuff
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Voxel?label=Voxel%20Libraries&style=flat-square&color=green)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Other?label=Other%20Stuff&style=flat-square&color=green)](#)
+
 ---
 
 [![](https://img.shields.io/badge/DU-1.4.X-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
