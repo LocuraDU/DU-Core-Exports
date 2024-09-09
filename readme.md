@@ -2,7 +2,7 @@
 Welcome to a growing collection of blueprints from builders of Dual Universe. So many builders have come together to release files for everyone for use on thier own MyDU servers. So many memories get attached to these items its nice that we are all able to keep them with us as we move forward with MyDU servers. Enjoy blueprints from builders like Damphousse (Ships Only), Loaded, TobiWonKenobi, and so many more!
 
 > [!NOTE]
-> All files have been publicaly released by NQ or the author themself.
+> All files have been publicaly released by NQ or the author themself. (Or were DRM Free)
 
 > [!IMPORTANT]
 > I will not be able to release some files without the author consent.
@@ -27,6 +27,10 @@ Welcome to a growing collection of blueprints from builders of Dual Universe. So
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/M%20Cores?label=Space%20M%20Core&style=flat-square&color=7D52CA)](#)
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/L%20Cores?label=Space%20L%20Core&style=flat-square&color=7D52CA)](#)
 [![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Space/XL%20Cores?label=Space%20XL%20Core&style=flat-square&color=7D52CA)](#)
+
+## Other Stuff
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Voxel?label=Voxel%20Libraries&style=flat-square&color=green)](#)
+[![](https://img.shields.io/github/directory-file-count/LocuraDU/DU-Core-Exports/Other?label=Other%20Stuff&style=flat-square&color=green)](#)
 
 ---
 
